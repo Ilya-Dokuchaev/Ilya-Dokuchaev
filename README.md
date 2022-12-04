@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+
+
+
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Ilya-Dokuchaev/ama)
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Ilya-Dokuchaev/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=Naereen/badges)
+
 <!--
 **Ilya-Dokuchaev/Ilya-Dokuchaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
