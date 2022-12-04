@@ -5,8 +5,11 @@
 
 
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Ilya-Dokuchaev/ama)
-[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Ilya-Dokuchaev/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=Naereen/badges)
+![Profile views](https://gpvc.arturio.dev/Ilya-Dokuchaev)
+### 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ilya-Dokuchaev&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+###
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilya-Dokuchaev&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Ilya-Dokuchaev/Ilya-Dokuchaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
