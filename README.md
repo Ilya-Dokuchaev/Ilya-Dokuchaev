@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm Ilya Dokuchaev a junior frontend developer. I can work with multi-tasking, under pressure, being able to find a solution in no time, get things rolling and after that take the responsibility of my decisions.This is the way.
+
+I always give myself feedback when the job is done. From my perspective it helps to find solutions for similar tasks even better and quicker. 
+
+As for me frontend is a whole new world of cool things I can do myself.
+
+You can see all of my pet-projects on my github account.
 
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on cool React-projects
@@ -13,7 +20,6 @@
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilya-Dokuchaev&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 ###
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31y7ogjolptgjwthtkzyi24pbnny&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31y7ogjolptgjwthtkzyi24pbnny&redirect=true)
 
 
