@@ -6,8 +6,8 @@ I always give myself feedback when the job is done. From my perspective it helps
 As for me frontend is a whole new world of cool things I can do myself.
 
 You can see all of my pet-projects on my github account.
-https://www.codewars.com/users/Ilya-Dokuchaev/badges/large
 
+![Codewars](https://www.codewars.com/users/Ilya-Dokuchaev/badges/large)
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on cool React-projects
 - 📫 How to reach me: [TELEGRAM](https://t.me/pursimies)
