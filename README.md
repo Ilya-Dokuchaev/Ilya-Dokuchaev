@@ -13,7 +13,9 @@ You can see all of my pet-projects on my github account.
 ###
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 ![Profile views](https://gpvc.arturio.dev/Ilya-Dokuchaev)
-![Codewars](https://www.codewars.com/users/Ilya-Dokuchaev/badges/small)
+###
+![Codewars](https://www.codewars.com/users/Ilya-Dokuchaev/badges/large)
+###
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31y7ogjolptgjwthtkzyi24pbnny&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31y7ogjolptgjwthtkzyi24pbnny&redirect=true)
 ### 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ilya-Dokuchaev&theme=default)](https://github.com/anuraghazra/github-readme-stats)
